@@ -9,7 +9,7 @@
 		"eslint": "eslint \"**/*.{js,ts}\"",
 		"eslint:fix": "npm run eslint -- --fix --quiet",
 		"validate": "npm run prettier -- --list-different && npm run eslint",
-		"start-server": "npm run transpile && node dist/src/server.js",
+		"start-server": "npm run transpile && node dist/server.js",
 		"start": "nodemon -e ts -w ./ -x npm run start-server",
 		"transpile": "tsc"
 	},
