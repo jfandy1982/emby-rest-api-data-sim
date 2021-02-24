@@ -1,0 +1,6 @@
+version: '3'
+services:
+  emby-data-sim:
+    image: jfandy1982/internal:emby-data-sim
+    ports:
+     - 8096:8096
