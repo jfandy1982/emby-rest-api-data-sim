@@ -1,0 +1,148 @@
+{
+	"Items": [
+		{
+			"Name": "Filme",
+			"ServerId": "r2d2",
+			"Id": "7a2175bccb1f1a94152cbd2b2bae8f6d",
+			"Type": "CollectionFolder",
+			"MediaType": "",
+			"Path": "/var/packages/EmbyServer/target/var/root/default/Filme",
+			"ParentId": "2",
+			"SeriesId": "",
+			"SeasonId": ""
+		},
+		{
+			"Name": "filme",
+			"ServerId": "r2d2",
+			"Id": "7a2175bccb1f1a94152cbd2b2bae8f6d",
+			"Type": "Folder",
+			"MediaType": "",
+			"Path": "\\\\192.168.0.128\\filme",
+			"ParentId": "1",
+			"SeriesId": "",
+			"SeasonId": ""
+		},
+		{
+			"Name": "serien",
+			"ServerId": "r2d2",
+			"Id": "18",
+			"Type": "Folder",
+			"MediaType": "",
+			"Path": "\\\\192.168.0.128\\serien",
+			"ParentId": "1",
+			"SeriesId": "",
+			"SeasonId": ""
+		},
+		{
+			"Name": "Serien",
+			"ServerId": "r2d2",
+			"Id": "43cfe12fe7d9d8d21251e0964e0232e2",
+			"Type": "CollectionFolder",
+			"MediaType": "",
+			"Path": "/var/packages/EmbyServer/target/var/root/default/Serien",
+			"ParentId": "2",
+			"SeriesId": "",
+			"SeasonId": ""
+		},
+		{
+			"Name": "Airspeed - Rettung in letzter Sekunde",
+			"ServerId": "r2d2",
+			"Id": "29",
+			"Type": "Movie",
+			"MediaType": "Video",
+			"Path": "\\\\192.168.0.128\\filme\\Airspeed_-_Rettung_in_letzter_Sekunde_(1998)\\Airspeed_-_Rettung_in_letzter_Sekunde_(1998).mp4",
+			"ParentId": "8",
+			"SeriesId": "",
+			"SeasonId": ""
+		},
+		{
+			"Name": "Alle unter eine Tanne",
+			"ServerId": "r2d2",
+			"Id": "30",
+			"Type": "Movie",
+			"MediaType": "Video",
+			"Path": "\\\\192.168.0.128\\filme\\Alle_unter_eine_Tanne_(2014)\\Alle_unter_eine_Tanne_(2014).mp4",
+			"ParentId": "8",
+			"SeriesId": "",
+			"SeasonId": ""
+		},
+		{
+			"Name": "Armageddon - Das jüngste Gericht",
+			"ServerId": "r2d2",
+			"Id": "40",
+			"Type": "Movie",
+			"MediaType": "Video",
+			"Path": "\\\\192.168.0.128\\filme\\Armageddon_-_Das_juengste_Gericht_(1998)\\Armageddon_-_Das_juengste_Gericht_(1998).mp4",
+			"ParentId": "8",
+			"SeriesId": "",
+			"SeasonId": ""
+		},
+		{
+			"Name": "Asterix bei den Olympischen Spielen",
+			"ServerId": "r2d2",
+			"Id": "43",
+			"Type": "Movie",
+			"MediaType": "Video",
+			"Path": "\\\\192.168.0.128\\filme\\Asterix_bei_den_Olympischen_Spielen_(2008)\\Asterix_bei_den_Olympischen_Spielen_(2008).mp4",
+			"ParentId": "8",
+			"SeriesId": "",
+			"SeasonId": ""
+		},
+		{
+			"Name": "Braveheart",
+			"ServerId": "r2d2",
+			"Id": "54",
+			"Type": "Movie",
+			"MediaType": "Video",
+			"Path": "\\\\192.168.0.128\\filme\\Braveheart_(1995)\\Braveheart_(1995).mp4",
+			"ParentId": "8",
+			"SeriesId": "",
+			"SeasonId": ""
+		},
+		{
+			"Name": "Babylon Berlin",
+			"ServerId": "r2d2",
+			"Id": "116",
+			"Type": "Series",
+			"MediaType": "Video",
+			"Path": "\\\\192.168.0.128\\serien\\Babylon_Berlin",
+			"ParentId": "18",
+			"SeriesId": "",
+			"SeasonId": ""
+		},
+		{
+			"Name": "Making of: Babylon Berlin",
+			"ServerId": "r2d2",
+			"Id": "121",
+			"Type": "Episode",
+			"MediaType": "Video",
+			"Path": "\\\\192.168.0.128\\serien\\Babylon_Berlin\\Babylon_Berlin.S00.E01.mp4",
+			"ParentId": "2514",
+			"SeriesId": "116",
+			"SeasonId": "2514"
+		},
+		{
+			"Name": "1929 – Das Jahr Babylon",
+			"ServerId": "r2d2",
+			"Id": "122",
+			"Type": "Episode",
+			"MediaType": "Video",
+			"Path": "\\\\192.168.0.128\\serien\\Babylon_Berlin\\Babylon_Berlin.S00.E02.mp4",
+			"ParentId": "2514",
+			"SeriesId": "116",
+			"SeasonId": "2514"
+		},
+		{
+			"Name": "Folge 1",
+			"ServerId": "r2d2",
+			"Id": "123",
+			"Type": "Episode",
+			"MediaType": "Video",
+			"Path": "\\\\192.168.0.128\\serien\\Babylon_Berlin\\Babylon_Berlin.S01.E01.mp4",
+			"ParentId": "2515",
+			"SeriesId": "116",
+			"SeasonId": "2515"
+		}
+	],
+	"TotalRecordCount": 12
+}
